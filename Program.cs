@@ -10,7 +10,7 @@ class Program
         Console.WriteLine();
         Console.WriteLine("############################################################################");
         Console.WriteLine();
-        Console.WriteLine("               -- ScriptSucker ver. 1.0 by krtfpls@gmail.com --                    ");
+        Console.WriteLine("               -- ScriptSucker ver. 1.0 by krtfpls@gmail.com --              ");
         Console.WriteLine();
         Console.WriteLine("############################################################################");
         Console.WriteLine("Aplikacja do wgrywania skryptów pythonowych po ssh z uprawnieniami sudo");
