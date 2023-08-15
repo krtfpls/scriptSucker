@@ -13,7 +13,7 @@ For example, there is the dnsChanger.py script for change DNS on Ubuntu Desktop 
 example use:
 
   scriptSucker.exe dnsChanger.py 192.168.1.11 192.168.1.12 192.168.2.15
-
+</br></br></br>
 
 
 made with ChatGPT assist
