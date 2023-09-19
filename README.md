@@ -14,6 +14,3 @@ example use:
 
   scriptSucker.exe dnsChanger.py 192.168.1.11 192.168.1.12 192.168.2.15
 </br></br></br>
-
-
-made with ChatGPT assist
